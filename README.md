@@ -1,6 +1,6 @@
 # Bitcoin Monitoring App
 
-A crypto currency price checking Flutter application. By using this we'll be able to monitor your bitcoin investents on the move!
+A crypto currency price checking Flutter application. By using this we'll be able to monitor your bitcoin investments on the move!
 
 ## Getting Started
 
