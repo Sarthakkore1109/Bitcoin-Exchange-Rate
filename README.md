@@ -1,6 +1,6 @@
 # sensor_check_app
 
-A new Flutter application.
+A crypto currency price checking Flutter application. By using this we'll be able to monitor your bitcoin investents on the move!
 
 ## Getting Started
 
